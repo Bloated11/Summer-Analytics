@@ -25,7 +25,7 @@ This project includes:
 
 ## 🏗 Architecture Diagram
 
-```mermaid
+```
 flowchart TD
   A[dataset.csv] --> B[Preprocessing (Pandas)]
   B --> C[Daily Aggregation by Lot + Date]
