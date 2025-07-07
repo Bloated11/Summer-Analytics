@@ -1,3 +1,4 @@
+# link to colab notebook https://colab.research.google.com/drive/1rlS6YSIBj8DHIeltpSJqKzFFyG5vzrE0?usp=sharing
 # 🚗 Dynamic Parking Lot Pricing System
 
 A data-driven simulation that models and visualizes daily dynamic pricing for urban parking lots. It processes real-world parking data (occupancy, queue, traffic, vehicle types) to compute optimal pricing using demand models.
@@ -86,7 +87,6 @@ price = base_price * (1 + λ * normalized_demand)
 📦 dynamic-parking-pricing
 ├── dataset.csv                 # Raw input data
 ├── dynamic_pricing_park.ipynb  # Jupyter Notebook (uploaded)
-├── daily_dynamic_prices.csv    # Output data (daily prices)
 ├── README.md                   # You're here
 ```
 
